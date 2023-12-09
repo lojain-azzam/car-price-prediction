@@ -1,0 +1,8 @@
+linear:{'model': LinearRegression(), 'Test_Score': 0.5478091356977939, 'Train_Score': 0.6033948563538966}
+ploy_2:{'model': LinearRegression(), 'degree': 2, 'Test_Score': 0.005936241485962057, 'Train_Score': 0.8889576893130324}
+ploy_3:{'model': LinearRegression(), 'degree': 3, 'Test_Score': -0.0005412090549290482, 'Train_Score': 0.9949023371763224}
+knn:{'model': KNeighborsRegressor(n_neighbors=3), 'Test_Score': -0.9657201428681459, 'Train_Score': 0.21900187077445477}
+D_tree:{'model': DecisionTreeRegressor(random_state=0), 'Test_Score': 0.6097866855017555, 'Train_Score': 1.0}
+Test Size:0.3
+Metric Evaluation:r^2 score
+Data Shape Used:(6864, 99)

@@ -100,12 +100,6 @@ def min_max_scaler(sample:list) -> list:
 
     """
     Predicts the price of the given sample using a trained model.
-
-    Args:
-        sample (list): The sample for which the price is to be predicted
-
-    Returns:
-        float: The predicted price
     """
 
 def pridict_price(sample:list) -> float:

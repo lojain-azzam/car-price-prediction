@@ -1,0 +1,11 @@
+{
+    "Data Shape Used": [
+        6864,
+        99
+    ],
+    "Model Params": {
+        "max_depth": 7
+    },
+    "Train Score": 0.6787134273786968,
+    "Test Score": 0.6671817005702414
+}
